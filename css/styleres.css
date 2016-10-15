@@ -112,7 +112,9 @@ table ul {
     padding-left: 20px;
     list-style: square;
 }
-
+table ul li {
+    margin: 5px 0;
+}
 .foot {
     margin: auto;
     padding: 0;
